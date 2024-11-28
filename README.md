@@ -1,3 +1,3 @@
-# Projeto elaborado em parceria com a Digital Innovation One, com o projeto "
-# Construindo uma Pokédex com JavaScript".
+## Projeto elaborado em parceria com a Digital Innovation One => "Construindo uma Pokédex com JavaScript".
+
 
